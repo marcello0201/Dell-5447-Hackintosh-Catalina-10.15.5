@@ -28,7 +28,7 @@
 - SD Card Reader: RTS5179 (Disabled by SSDT to save energy) 
 - Elan USB TouchScreen.
 
-How to use kext files see: 
+How to use kext files see: https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/EN_Tutorial.md
 
 -------------------
 
