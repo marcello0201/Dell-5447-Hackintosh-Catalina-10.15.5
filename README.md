@@ -28,7 +28,7 @@
 - Leitor de cartão SD: RTS5179 (Desativado  via SSDT para economizar energia) 
 - Elan USB TouchScreen
 
-Como instalar as kexts veja em : 
+Como instalar as kexts veja em : https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/PT_Tutorial.md
 
 English notes ? see : https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/README2.md
 
