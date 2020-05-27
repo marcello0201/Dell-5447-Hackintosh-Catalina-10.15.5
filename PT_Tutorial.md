@@ -34,7 +34,7 @@ Neste modelo de notebook, para garantir que a hibernação funcione corretamente
 
 https://github.com/marcello0201/Dell-5547-Hackintosh/tree/master/Management-Engine-Firmware
 
-Bugs comuns veja em: 
+Bugs comuns veja em: https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/Issues.md
 
 ## Configuração da bios
 
