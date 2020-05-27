@@ -34,7 +34,7 @@ In this notebook model, to ensure that sleep works correctly on Mac OS, it is ne
 
 https://github.com/marcello0201/Dell-5547-Hackintosh/tree/master/Management-Engine-Firmware
 
-Common bugs see: 
+Common bugs see: https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/Issues2.md
 
 ## Bios settings
 
