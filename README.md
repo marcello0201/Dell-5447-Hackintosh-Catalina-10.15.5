@@ -30,7 +30,7 @@
 
 Como instalar as kexts veja em : 
 
-English notes ? see : 
+English notes ? see : https://github.com/marcello0201/Dell-5447-Hackintosh-Catalina-10.15.5/blob/master/README2.md
 
 -------------------
 ## Notas dessa versão:
